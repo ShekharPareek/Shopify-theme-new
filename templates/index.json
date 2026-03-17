@@ -11,7 +11,6 @@
   "sections": {
     "pagefly-home": {
       "type": "pagefly-home",
-      "disabled": true,
       "settings": {}
     },
     "d55c4d54-c36a-4f23-ac00-2f7390ac9907": {
